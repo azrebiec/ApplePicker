@@ -133,7 +133,7 @@ GUIText:
   m_GameObject: {fileID: 8784735}
   m_Enabled: 1
   serializedVersion: 3
-  m_Text: 
+  m_Text: 1000
   m_Anchor: 0
   m_Alignment: 0
   m_PixelOffset: {x: 0, y: 0}
@@ -141,7 +141,7 @@ GUIText:
   m_TabSize: 4
   m_Font: {fileID: 0}
   m_Material: {fileID: 0}
-  m_FontSize: 0
+  m_FontSize: 24
   m_FontStyle: 0
   m_Color:
     serializedVersion: 2
